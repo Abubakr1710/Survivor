@@ -27,6 +27,9 @@ You can access the website at the following link: [There will be link after the 
 ### *Credits*
 This project was inspired by the _Kaggle_ _Titanic_ _competition_, which provided the dataset used for the _Machine Learning model_. Thanks to the open source community for creating and maintaining the libraries used in this project.
 
+### *Project Plan*
+If you have interest about project plan please follow the link --> *[Project Plan](https://github.com/Abubakr1710/Survivor/tree/main/Project%20Plan)*
+
 ### *License*
 ```
 This project is licensed under the MIT License
