@@ -30,6 +30,9 @@ This project was inspired by the _Kaggle_ _Titanic_ _competition_, which provide
 ### *Project Plan*
 If you have interest about project plan please follow the link --> *[Project Plan](https://github.com/Abubakr1710/Survivor/tree/main/Project%20Plan)*
 
+### *ML Models*
+If you have interest about used ML Models please follow the link --> *[ML Models](https://github.com/Abubakr1710/Survivor/tree/main/model)*
+
 ### *License*
 ```
 This project is licensed under the MIT License
