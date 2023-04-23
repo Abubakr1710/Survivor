@@ -1,4 +1,9 @@
 # *Titanic Survival Predictor*
+
+<div align="center">
+   <img align="center" height=500 width=1000 alt="picture" src="https://github.com/Abubakr1710/Survivor/blob/main/images/titanic%20image.jpg?raw=true" >
+</div>
+
 ### *Introduction*
 This project is a web application that uses a _Machine Learning model_ to predict whether or not a person would have survived on the _Titanic_. Users input their age, sex, and passenger class, and the model outputs a prediction of survival. The website also includes _Explanatory Data Analysis_ (EDA) to explore the data and provide insights.
 
