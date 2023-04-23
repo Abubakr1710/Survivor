@@ -6,8 +6,8 @@
 * Getting Data from Kaggle :heavy_check_mark:
 
 ### *Day 2*
-* Data Cleaning
-* Explanatory Data Analysis
+* Explanatory Data Analysis :heavy_check_mark:
+* Data Cleaning :heavy_check_mark:
 * Machine Learning Model
 
 ### *Day 3*
