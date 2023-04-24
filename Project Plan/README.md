@@ -8,7 +8,7 @@
 ### *Day 2*
 * Explanatory Data Analysis :heavy_check_mark:
 * Data Cleaning :heavy_check_mark:
-* Machine Learning Model with _Scikit-Learn_ :heavy_check_mark:
+* Machine Learning Model :heavy_check_mark:
 
 ### *Day 3*
 * Creating web application
